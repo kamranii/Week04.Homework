@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "mEt7PeIWtlyWz2Zm5UonVEX5R2W4hZL+Wyct13EfohgGE7JV1uTRX9YtqnmJvIHoob3R1hGSwJhHmRHbg1GHVw==",
+  "dgSpecHash": "JOd99VBSodjyllwmdlk9nhxEEn8syi1YXsmXHr75VLHv6E8xQUDjcG2lEWOxnaHjTakDVWHuECy/Ib5we6jzuw==",
   "success": true,
-  "projectFilePath": "/Users/kamranimranli/Desktop/Week04Answers/Week04Answers/Week04Answers.csproj",
+  "projectFilePath": "/Users/kamranimranli/Desktop/CodeAcademy/C#/Week04Answers/Week04Answers/Week04Answers.csproj",
   "expectedPackageFiles": [
     "/Users/kamranimranli/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "/Users/kamranimranli/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.28/microsoft.netcore.app.host.osx-x64.3.1.28.nupkg.sha512",
+    "/Users/kamranimranli/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
     "/Users/kamranimranli/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
   ],
   "logs": []

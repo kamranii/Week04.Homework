@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kamranimranli/Desktop/Week04Answers/Week04Answers/Week04Answers.csproj": {}
+    "/Users/kamranimranli/Desktop/CodeAcademy/C#/Week04Answers/Week04Answers/Week04Answers.csproj": {}
   },
   "projects": {
-    "/Users/kamranimranli/Desktop/Week04Answers/Week04Answers/Week04Answers.csproj": {
+    "/Users/kamranimranli/Desktop/CodeAcademy/C#/Week04Answers/Week04Answers/Week04Answers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kamranimranli/Desktop/Week04Answers/Week04Answers/Week04Answers.csproj",
+        "projectUniqueName": "/Users/kamranimranli/Desktop/CodeAcademy/C#/Week04Answers/Week04Answers/Week04Answers.csproj",
         "projectName": "Week04Answers",
-        "projectPath": "/Users/kamranimranli/Desktop/Week04Answers/Week04Answers/Week04Answers.csproj",
+        "projectPath": "/Users/kamranimranli/Desktop/CodeAcademy/C#/Week04Answers/Week04Answers/Week04Answers.csproj",
         "packagesPath": "/Users/kamranimranli/.nuget/packages/",
-        "outputPath": "/Users/kamranimranli/Desktop/Week04Answers/Week04Answers/obj/",
+        "outputPath": "/Users/kamranimranli/Desktop/CodeAcademy/C#/Week04Answers/Week04Answers/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/kamranimranli/.nuget/NuGet/NuGet.Config"
@@ -55,7 +55,7 @@
             },
             {
               "name": "Microsoft.NETCore.App.Host.osx-x64",
-              "version": "[3.1.28, 3.1.28]"
+              "version": "[3.1.32, 3.1.32]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
@@ -67,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
         }
       }
     }
